@@ -58,3 +58,5 @@ dist/
 # 🔐 Secrets (just in case)
 *.pem
 *.key
+
+.env
