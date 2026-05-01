@@ -1,0 +1,60 @@
+# 🔥 Models (IMPORTANT)
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.bin
+
+# 🧠 ML / training artifacts
+runs/
+logs/
+wandb/
+mlruns/
+checkpoints/
+outputs/
+
+# 📊 Data files (if large / generated)
+*.csv
+*.tsv
+*.jsonl
+data/
+
+# 🐍 Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# 🌐 Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# ⚙️ Environment variables
+.env
+.env.*
+
+# 🖥️ OS files
+.DS_Store
+Thumbs.db
+
+# 🧪 Jupyter
+.ipynb_checkpoints/
+
+# 🧾 Logs
+*.log
+
+# 🧱 Build / dist
+build/
+dist/
+*.egg-info/
+
+# 🧰 IDE
+.vscode/
+.idea/
+
+# 🔐 Secrets (just in case)
+*.pem
+*.key
